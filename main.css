@@ -1,0 +1,13 @@
+
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+    background: linear-gradient(#135dd8,#228b22);
+}
