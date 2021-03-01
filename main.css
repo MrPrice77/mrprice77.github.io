@@ -10,4 +10,5 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 5px;
     background: linear-gradient(#135dd8,#228b22);
+    background-repeat: no-repeat;
 }
