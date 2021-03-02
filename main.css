@@ -7,65 +7,19 @@ box-sizing: border-box;
     box-sizing: inherit;
 }
 
+
+
 body {
-    margin: 0;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 1rem;
-    line-height: 1.5;
-    color: #212529;
-    text-align: left;
     background: linear-gradient(#135dd8,#228b22);
-    background-repeat: no-repeat;
-
+    color: rgb(226, 226, 226);
 }
 
-nav {
-    padding: .25rem;
-    line-height: inherit;
-    color: white;
-    font-size: 3em;
-    font-weight: 100;
-    text-align: left;
+.jumbotron {
+    background-color: transparent;
 }
 
-nav a {
-    color: white;
-    text-decoration: none;
-}
-
-nav a:hover {
-    color:#228b22;
-}
-
-nav ul {
-    display: flex;
-    list-style: none;
-    color: white;
-    margin-top: 0;
-    margin-bottom: 1rem;
-    font-size: .5em;
-}
-
-nav ul a{
-    text-transform: uppercase !important;
-}
-
-nav ul a:hover {
-    color: #135dd8
-}
-
-.container {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-between;
-}
-
-header {
-    background-color: #228b22;
-}
-
-footer {
-    background: linear-gradient(#228b22, #135dd8);
-
+.avatar {
+    display: block;
+    height: 100px;
+    width: 100px;
 }
