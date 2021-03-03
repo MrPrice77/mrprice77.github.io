@@ -11,7 +11,7 @@ box-sizing: border-box;
 
 body {
     background: linear-gradient(#135dd8,#228b22);
-    color: transparent;
+    color: white;
 }
 
 .jumbotron {
