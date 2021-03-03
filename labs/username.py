@@ -1,12 +1,3 @@
-# Lab 5 User Login
-
-# Create dictionary with list of profiles using username and password
-# Create function called login with parameters username_attempt and password_attempt
-# Create function called user_exists to check for user when creating an account
-# Create function create_user while referring to user_exists
-
-
-# Dictionary list with usernames and passwords
 profiles = [
     {
     'username' : 'gandalfTheGrey',
