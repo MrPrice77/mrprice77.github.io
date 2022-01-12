@@ -7,7 +7,13 @@ box-sizing: border-box;
     box-sizing: inherit;
 }
 
-
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
 
 body {
     background: linear-gradient(#135dd8,#228b22);
